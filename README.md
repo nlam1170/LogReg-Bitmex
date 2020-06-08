@@ -5,7 +5,11 @@ This model produces very littly alpha, but was more an experiment on learning ab
 
 This project consists of four jupyter notebooks
 
-pulldata.ipynb - interaces with Bitmex API through websocket and REST technology in order to pull realtime data
-db_update.ipynb - neatly stores pulled data into mongoDB database in 5m timespace
-customipynb - contains my custom implementations for some pytorch functions. These include the LogReg ANN, custom dataloader, and custom                 normalize function
+###### pulldata.ipynb
+interaces with Bitmex API through websocket and REST technology in order to pull realtime data
+###### db_update.ipynb
+neatly stores pulled data into mongoDB database in 5m timespace
+###### customipynb
+contains my custom implementations for some pytorch functions. These include the LogReg ANN, custom dataloader, and custom normalize function
+###### 
 train.ipynb - training and eval functions for model
