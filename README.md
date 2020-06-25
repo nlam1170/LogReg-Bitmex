@@ -1,7 +1,7 @@
 # LogReg-Bitmex
 
 Wrote a supervised LogReg model for position reccomendation on XBTUSD perpetual futures on Bitmex
-This model produces very littly alpha, but was more an experiment on learning about the process and potential applications of ML as a form of quantative analysis
+This model produces very little actual alpha, but was more an experiment on learning about the process and potential applications of ML as a form of quantative analysis
 
 This project consists of four jupyter notebooks
 
